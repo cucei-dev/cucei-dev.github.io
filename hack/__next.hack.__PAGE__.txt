@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[72200,["/_next/static/chunks/0ltqr6ov1b995.js","/_next/static/chunks/0y7p~4c-vyokw.js"],"OutletBoundary"]
+3:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","section",null,{"className":"min-h-screen flex items-center pt-20","children":["$","div",null,{"className":"max-w-7xl mx-auto px-6 py-20","children":[["$","h1",null,{"className":"text-5xl md:text-7xl font-black mb-8 leading-[0.9] tracking-tighter uppercase","children":[["$","span",null,{"className":"text-primary","children":"Hack"}]," Lab"]}],["$","p",null,{"className":"md:text-xl text-white font-light mb-12 max-w-2xl leading-relaxed","children":"Próximamente: espacio de innovación y desarrollo colaborativo"}]]}]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"mnMfTIKgRn3WRzjEcA6oU"}
+4:null
